@@ -21,5 +21,6 @@ public class TiposVariaveis {
         final double VALOR_PI = 3.14;
         final int IDADE_FINAL = 25;
         
+        
     }
 }
