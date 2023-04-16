@@ -6,7 +6,7 @@ public class Exercio3 {
         int numero;
         int count = 0;
         int maior = 0;
-        int media = 0;
+        double media = 0;
         do {
             System.out.println("Digite o numero: ");
             numero = tec.nextInt();
