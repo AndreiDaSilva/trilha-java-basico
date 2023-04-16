@@ -8,8 +8,7 @@ public class Exercio2 {
         System.out.println("Digite uma nota entre 0 e 10: ");
         nota = tec.nextInt();
         while (nota < 0 || nota > 10) {
-            System.out.println("Nota invalida!");
-            System.out.println("Digite uma nota entre 0 e 10: ");
+            System.out.println("Nota invalida! Digite uma nota entre 0 e 10: ");
             nota = tec.nextInt();
         }
     }
