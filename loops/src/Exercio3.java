@@ -11,13 +11,12 @@ public class Exercio3 {
             System.out.println("Digite o numero: ");
             numero = tec.nextInt();
             media += numero;
-            if (numero > maior) {
+            if (numero > maior)
                 maior = numero;
-            }
             count++;
         } while (count < 5);
 
-        System.out.println("Média dos numeros digitados: " + (media / count));
+        System.out.println("Média dos números digitados: " + (media / count));
         System.out.println("Maior numero digitado: " + maior);
 
     }
