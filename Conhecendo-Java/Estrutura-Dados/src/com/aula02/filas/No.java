@@ -15,7 +15,7 @@ public class No<T> {
     /**
      * @return the object
      */
-    public Object getObject() {
+    public T getObject() {
         return object;
     }
 
@@ -29,7 +29,7 @@ public class No<T> {
     /**
      * @return the refNo
      */
-    public No getRefNo() {
+    public No<T> getRefNo() {
         return refNo;
     }
 
