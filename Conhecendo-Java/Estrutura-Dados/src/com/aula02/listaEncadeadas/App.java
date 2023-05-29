@@ -19,5 +19,11 @@ public class App {
 
         System.out.println(lista);
 
+        System.out.println(lista.remove(0));
+        System.out.println(lista);
+        System.out.println(lista.remove(5));
+
+        System.out.println(lista);
+
     }
 }
