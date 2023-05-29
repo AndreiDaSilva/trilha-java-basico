@@ -21,5 +21,8 @@
 #### Dominando IDEs Java
 #### Aprendendo a sitaxe JAVA
 #### Lógica condicional e controle de fluxos em JAVA
+#### Estruturas de Repetição e Arrays em JAVA
+#### Estrutura de dados em JAVA
+#### Entendendo Método JAVA
 
 
