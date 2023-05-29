@@ -1,6 +1,6 @@
 package com.aula02.filas;
 
-public class Main {
+public class App {
 
     public static void main(String[] args) {
         Fila<String> minhaFila = new Fila<>();

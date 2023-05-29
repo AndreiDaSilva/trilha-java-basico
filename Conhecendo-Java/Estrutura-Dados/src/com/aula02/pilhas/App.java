@@ -2,7 +2,7 @@ package com.aula02.pilhas;
 
 import java.util.Random;
 
-public class Main {
+public class App {
     public static void main(String[] args) {
         Random random = new Random();
         Pilha minhaPilha = new Pilha();
