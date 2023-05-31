@@ -1,4 +1,4 @@
-package com.aula01.generics;
+package com.Aula01.Generics;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.aula01.projetoNo;
+package com.Aula01.ProjetoNo;
 
 public class Main {
     public static void main(String[] args) {

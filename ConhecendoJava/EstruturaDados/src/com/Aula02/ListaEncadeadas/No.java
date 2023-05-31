@@ -1,4 +1,4 @@
-package com.aula02.listaEncadeadas;
+package com.Aula02.ListaEncadeadas;
 
 public class No<T> {
     private T conteudo;

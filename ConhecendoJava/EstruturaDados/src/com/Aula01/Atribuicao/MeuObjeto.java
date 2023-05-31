@@ -1,4 +1,4 @@
-package com.aula01.atribuicao;
+package com.Aula01.Atribuicao;
 
 public class MeuObjeto {
     Integer num;

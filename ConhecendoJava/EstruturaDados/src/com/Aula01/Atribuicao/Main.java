@@ -1,4 +1,4 @@
-package com.aula01.atribuicao;
+package com.Aula01.Atribuicao;
 
 public class Main {
     public static void main(String[] args) {

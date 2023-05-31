@@ -1,4 +1,4 @@
-package com.aula02.filas;
+package com.Aula02.Filas;
 
 public class App {
 

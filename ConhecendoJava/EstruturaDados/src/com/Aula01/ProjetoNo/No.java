@@ -1,4 +1,4 @@
-package com.aula01.projetoNo;
+package com.Aula01.ProjetoNo;
 
 public class No {
     private String conteudo;

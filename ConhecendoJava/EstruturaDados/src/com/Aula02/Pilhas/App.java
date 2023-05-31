@@ -1,4 +1,4 @@
-package com.aula02.pilhas;
+package com.Aula02.Pilhas;
 
 import java.util.Random;
 

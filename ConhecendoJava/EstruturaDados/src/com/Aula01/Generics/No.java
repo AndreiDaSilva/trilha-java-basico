@@ -1,4 +1,4 @@
-package com.aula01.generics;
+package com.Aula01.Generics;
 
 public class No<T> {
     private T conteudo;
